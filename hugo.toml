@@ -1,3 +1,8 @@
 baseURL = 'https://kikcode.github.io/'
 languageCode = 'ko-kr'
 title = 'Hello Kikcode'
+
+[params]
+  # (Optional, default light) Sets color theme: light, dark or auto.
+  # Theme 'auto' switches between dark and light modes based on browser/os preferences
+  BookTheme = 'light'
