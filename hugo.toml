@@ -1,0 +1,3 @@
+baseURL = 'https://kikcode.github.io/'
+languageCode = 'ko-kr'
+title = 'Hello Kikcode'
