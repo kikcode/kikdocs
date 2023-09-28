@@ -1,0 +1,9 @@
+baseURL = 'https://kikcode.github.io/'
+languageCode = 'ko-kr'
+title = 'Hello Kikcode'
+theme = 'hugo-book'
+
+
+
+[params]
+  BookTheme = 'light'

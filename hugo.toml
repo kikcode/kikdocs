@@ -9,7 +9,3 @@ theme = 'hugo-book'
   # (Optional, default light) Sets color theme: light, dark or auto.
   # Theme 'auto' switches between dark and light modes based on browser/os preferences
   BookTheme = 'light'
-
-  # css, js
-  #custom_css = ["css/custom.css"]
-  # custom_js = ["js/custom.js"]

@@ -1,3 +1,7 @@
+---
+draft: true
+---
+
 # Tabs
 
 Tabs let you organize content by context, for example installation instructions for each supported platform.
@@ -14,6 +18,7 @@ Tabs let you organize content by context, for example installation instructions 
 
 {{< tabs "uniqueid" >}}
 {{< tab "MacOS" >}}
+
 # MacOS
 
 This is tab **MacOS** content.
