@@ -18,7 +18,7 @@ hugo new post-1.md
 
 또는 분류 용어에 대한 메타데이터를 추가 하려는 경우 사용됨.
 
-참고 사이트
+#### 참고 사이트
 
 [Hugo index.md vs \_index.md | Tangent Technologies](https://tangenttechnologies.ca/blog/hugo-indexmd-vs-_indexmd/)
 

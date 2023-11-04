@@ -8,7 +8,7 @@ draft: false
 
 {{< columns >}}
 
-## Astris ipse furtiva
+## Java
 
 Est in vagis et Pittheus tu arge accipiter regia iram vocatur nurus. Omnes ut
 olivae sensit **arma sorori** deducit, inesset **crudus**, ego vetuere aliis,
@@ -16,7 +16,7 @@ modo arsit? Utinam rapta fiducia valuere litora _adicit cursu_, ad facies
 
 <--->
 
-## Suis quot vota
+## Python
 
 Ea _furtique_ risere fratres edidit terrae magis. Colla tam mihi tenebat:
 miseram excita suadent es pecudes iam. Concilio _quam_ velatus posset ait quod
@@ -43,4 +43,7 @@ Idmoniae ripis, at aves, ali missa adest, ut _et autem_, et ab?
 
 https://new.express.adobe.com/webpage/MFTkwr34gzn6u/resources/2cf1ad9b-7a77-4161-b4fb-0737c8880c5c
 
-![메뉴 이미지](https://new.express.adobe.com/webpage/MFTkwr34gzn6u/resources/2cf1ad9b-7a77-4161-b4fb-0737c8880c5c)
+![메뉴 이미지](https://new.express.adobe.com/webpage/MFTkwr34gzn6u/resources/2cf1ad9b-7a77-4161-b4fb-0737c8880c5c)  
+{{ $image := resources.GetRemote "https://new.express.adobe.com/webpage/MFTkwr34gzn6u/resources/2cf1ad9b-7a77-4161-b4fb-0737c8880c5c" }}  
+{{ $image := resources.GetRemote <https://gohugo.io/images/hugo-logo-wide.svg> }}  
+![메뉴 이미지2](https://gohugo.io/images/hugo-logo-wide.svg)

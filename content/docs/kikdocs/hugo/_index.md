@@ -6,8 +6,12 @@ bookCollapseSection: true
 
 `from` notion>resource>>hugo
 
-[Hugo Documentation](https://gohugo.io/documentation/)
-
 ---
 
 {{<section summary >}}
+
+#### 참고 사이트
+
+[Hugo Documentation](https://gohugo.io/documentation/)
+
+---
