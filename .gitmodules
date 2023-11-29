@@ -5,3 +5,6 @@
 	path = public
 	url = https://github.com/kikcode/kikcode.github.io.git
 	branch = main
+[submodule "themes/arberia"]
+	path = themes/arberia
+	url = https://github.com/antedoro/arberia.git
