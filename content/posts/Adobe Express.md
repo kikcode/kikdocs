@@ -2,11 +2,6 @@
 author: "Unfamiliar Madam"
 date: 2023-09-28
 linktitle: Adobe Express
-menu:
-  main:
-    parent: tutorials
-next: /tutorials/github-pages-blog
-prev: /tutorials/automated-deployments
 title: Adobe Express
 draft: false
 weight: 10
